@@ -1,29 +1,13 @@
 ---
 layout: post
-title: 模板文档 mobe document
+title: 模板文档 'mobe document
 tags:
-  - <名>
-  - <动>
-  - <形>
-  - <数>
-  - <量>
-  - <介>
-  - <连>
-  - <助>
-  - <叹>
-  - <动>
-  - <拟>
-  - 【旧】
-  - 【儿】
-  - 【俚】
-  - 【詈】
-  - 【文】
 pinyin: 
-  - mobe document
-  - xinpa fakyin
+  - mobedocument
+  - xinpafakyin
   - hanyupinyin
-  - wugniu phinin
-  - mubae fhendang
+  - wugniuphinin
+  - mubaefhendang
 keyword: 
   - 模版文档
   - 母版文档
