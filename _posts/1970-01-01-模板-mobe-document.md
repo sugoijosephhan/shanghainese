@@ -2,6 +2,22 @@
 layout: post
 title: 模板文档 'mobe document
 tags:
+  - <名>
+  - <动>
+  - <形>
+  - <数>
+  - <量>
+  - <介>
+  - <连>
+  - <助>
+  - <叹>
+  - <动>
+  - <拟>
+  - 【旧】
+  - 【儿】
+  - 【俚】
+  - 【詈】
+  - 【文】
 pinyin: 
   - mobedocument
   - xinpafakyin
