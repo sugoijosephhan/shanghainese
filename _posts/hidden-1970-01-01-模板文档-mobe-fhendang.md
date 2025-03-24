@@ -50,4 +50,4 @@ keyword:
 
 | 地区 | 发音 |               
 | :---: | :---: |         
-| 宝山城区 | mubae fhendang |              
+| 宝山 | mubae fhendang |              
