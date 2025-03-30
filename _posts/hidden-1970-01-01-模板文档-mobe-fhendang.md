@@ -24,8 +24,8 @@ pinyin:
   - mubanwendang #汉语拼音。无需标注普通话四声。
   - mubaefhendang #其他地区上海话发音（以宝山地区为例）。无需标注声调，无需因变调留空格。
 keyword: 
-  - 模版文档
-  - 母版文档
+  - 模版文档 # 本 markdown 被推送到服务器后的展示效果请访问：https://www.fanpaozhou.com/shanghainese/qt/模板文档-mobe-fhendang
+  - 母版文档 # 上传前请把 markdown 文件名前方的 hidden- 删除。
 ---
 
 【释义一】用于复制的规范版本。如果本条目只有一种解释，则可以在前方标签内删除数字“一”。                                
