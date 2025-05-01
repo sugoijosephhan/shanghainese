@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 模板文档 'mobe fhendang
+title: 模板文档 'mobe fhendang #上海话拼音。注意书上拼音之间的空格，没有空格的千万不要空格，该空的地方一定要空格。注意每个气口前是否存在单引号（'），如果有单引号一定要在英文状态下输入。
 tags:
   - <名>
   - <动>
@@ -24,7 +24,7 @@ pinyin:
   - mubanwendang #汉语拼音。无需标注普通话四声。
   - mubaefhendang #其他地区上海话发音（以宝山地区为例）。无需标注声调，无需因变调留空格。
 keyword: 
-  - 模版文档 # 本 markdown 被推送到服务器后的展示效果请访问：https://www.fanpaozhou.com/shanghainese/qt/模板文档-mobe-fhendang
+  - 模版文档 # 这里是搜索栏关键词。      本 markdown 被推送到服务器后的展示效果请访问：https://www.hanjunhui.com/shanghainese/qt/mobe-fhendang
   - 母版文档 # 上传前请把 markdown 文件名前方的 hidden- 删除。
 ---
 
