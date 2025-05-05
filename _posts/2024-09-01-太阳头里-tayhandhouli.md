@@ -2,7 +2,6 @@
 layout: post
 title: 太阳头里 tayhandhouli
 tags:
-  - 
 pinyin: 
   - tayhandhouli
   - taiyangtouli
