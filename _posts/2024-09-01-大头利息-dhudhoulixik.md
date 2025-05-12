@@ -2,7 +2,7 @@
 layout: post
 title: 大头利息 'dhudhoulixik
 tag:
-  -〈名〉
+  - <名>
 pinyin: 
   - dhudhoulixik
   - datoulixi

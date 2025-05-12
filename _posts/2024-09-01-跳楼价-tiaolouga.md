@@ -2,10 +2,10 @@
 layout: post
 title: 跳楼价 'tiaolouga
 tag:
-  -〈名〉
+  - <名>
 pinyin: 
   - tiaolouga
-  - ttiaoloujia
+  - tiaoloujia
 keyword: 
 ---
 

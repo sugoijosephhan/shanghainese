@@ -2,7 +2,7 @@
 layout: post
 title: 轧勿平 'ghakfhekbhin
 tag:
-  - 〈动〉
+  - <动>
 pinyin: 
   - ghakfheklong
   - zhawulong

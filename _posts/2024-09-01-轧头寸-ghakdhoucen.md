@@ -2,7 +2,7 @@
 layout: post
 title: 轧头寸 'ghakdhoucen
 tag:
-  - 〈动〉
+  - <动>
 pinyin: 
   - ghakdhoucen
   - zhatoucun

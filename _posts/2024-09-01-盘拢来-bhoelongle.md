@@ -2,7 +2,7 @@
 layout: post
 title: 盘拢来 'bhoelongle
 tag:
-  - 〈动〉
+  - <动>
 pinyin: 
   - bhoelongle
   - panlonglai

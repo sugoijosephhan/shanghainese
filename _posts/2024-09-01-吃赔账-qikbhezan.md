@@ -2,7 +2,7 @@
 layout: post
 title: 吃赔账 'qikbhezan
 tag:
-  - 〈动〉
+  - <动>
 pinyin: 
   - qikbhezan
   - chipenzhang

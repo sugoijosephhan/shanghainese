@@ -2,7 +2,7 @@
 layout: post
 title: 明份账 'minfhenzan
 tag:
-  - 〈动〉
+  - <动>
 pinyin: 
   - minfhenzan
   - mingfenzhang

@@ -2,7 +2,7 @@
 layout: post
 title: 倒轧账 'daoghakzan
 tag:
-  - 〈动〉
+  - <动>
 pinyin: 
   - daoghakzan
   - daozhazhang
