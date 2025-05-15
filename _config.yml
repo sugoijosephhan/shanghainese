@@ -19,10 +19,8 @@ avatar: https://sugoijosephhan.github.io/images/tx2.jpg
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 进怀瞎话
-    url: /jinhuai-speech
   - name: 沪韵雅言AI
-    url: /ai-chat
+    url: https://www.doubao.com/bot/NQrdwxeH
   - name: 网站地图
     url: /sitemap
 #  - name: About
